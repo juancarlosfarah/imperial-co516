@@ -1,3 +1,6 @@
 [submodule "stats"]
 	path = stats
 	url = https://github.com/juancarlosfarah/imperial-co516-stats.git
+[submodule "reverse"]
+	path = reverse
+	url = https://github.com/juancarlosfarah/imperial-co516-reverse.git
