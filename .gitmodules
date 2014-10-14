@@ -4,3 +4,6 @@
 [submodule "reverse"]
 	path = reverse
 	url = https://github.com/juancarlosfarah/imperial-co516-reverse.git
+[submodule "debugging"]
+	path = debugging
+	url = https://github.com/juancarlosfarah/imperial-co516-debugging.git
